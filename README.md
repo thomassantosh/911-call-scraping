@@ -1,4 +1,4 @@
-# Scraping from Seattle public records
+# Scraping 911 call records from Seattle public data sets
 
 # Resources
 - Public datasets http://www.seattle.gov/police/information-and-data/public-data-sets
